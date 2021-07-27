@@ -1,0 +1,63 @@
+PODS:
+  - AVOSCloud (12.3.0)
+  - DZNEmptyDataSet (1.8.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - IQKeyboardManager (4.0.8)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.2.2)
+  - SafeData (1.0.3)
+  - SDWebImage (5.9.5):
+    - SDWebImage/Core (= 5.9.5)
+  - SDWebImage/Core (5.9.5)
+  - SPCategory (0.5.0):
+    - MBProgressHUD (= 1.0.0)
+    - SafeData
+    - SPMacro
+  - SPFastPush (1.1.0)
+  - SPMacro (0.3.7)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - DZNEmptyDataSet (~> 1.8.1)
+  - FMDB (~> 2.6.2)
+  - IQKeyboardManager (~> 4.0.8)
+  - MBProgressHUD (~> 1.0.0)
+  - MJExtension
+  - SafeData
+  - SDWebImage
+  - SPCategory
+  - SPFastPush
+  - SPMacro
+
+SPEC REPOS:
+  trunk:
+    - AVOSCloud
+    - DZNEmptyDataSet
+    - FMDB
+    - IQKeyboardManager
+    - MBProgressHUD
+    - MJExtension
+    - SafeData
+    - SDWebImage
+    - SPCategory
+    - SPFastPush
+    - SPMacro
+
+SPEC CHECKSUMS:
+  AVOSCloud: bed104accc6fc53c3d16c3f52c8dfdff02251898
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: d9b9c74cbdeb724c1e9ecbb157b318276e62e876
+  SafeData: 1b1f190e2d756e2face4a13046ccd698d70407bd
+  SDWebImage: 0b2ba0d56479bf6a45ecddbfd5558bea93150d25
+  SPCategory: a78239340aa4c57cd7f90321af712a607bf52bd2
+  SPFastPush: c67707aad9c115318dda3042a8d8402ed394178b
+  SPMacro: e6148a12ff383dc3b73b4edb45ba116371b562e8
+
+PODFILE CHECKSUM: c555631684ee29102a4a0bbd47026070c68ded6a
+
+COCOAPODS: 1.10.0
